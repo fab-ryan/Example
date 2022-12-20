@@ -1,0 +1,9 @@
+:root {
+  padding: 0;
+  --white: #fff;
+  --black: #000;
+}
+
+h1 {
+  color: var(--black);
+}
